@@ -1,0 +1,19 @@
+*{
+    background-image: url(/img/450_100.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-color: gray;
+}
+input{
+    background-color: rgb(119, 119, 143);
+    color: greenyellow;
+    background-image: none;
+}
+label{
+    color: greenyellow;
+    background-image: none;
+}
+h1{
+    color: blue;
+}
